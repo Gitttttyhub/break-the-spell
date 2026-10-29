@@ -220,6 +220,25 @@
 
 ---
 
+#### Ripple (涟漪)
+- [Website](https://ripplefocus.github.io/)
+- [GitHub Releases (APK)](https://github.com/ripplefocus/ripplefocus.github.io/releases)
+##### Features
+* Block WeChat Channels/Moments, YouTube Shorts, and Instagram Reels inside those apps while keeping chat
+* On-device anti-uninstall without a PC pairing step for everyday Device Owner style protection
+* Monotonic clock so changing the system time does not skip schedules
+* 15-minute cooldown after reboot plus friend or parent unlock code
+* Local only, no account, no cloud sync, no ads
+##### Cost
+* Free!
+##### Permissions
+* Network Required: No. :fire:
+##### Editors Note
+* Also ships an iOS 16+ build with FamilyControls / ManagedSettings denyAppRemoval and DeviceActivity.
+* Useful for parents who want WeChat chat open but Channels/Moments closed.
+
+---
+
 ### Built in Features
 
 ---
@@ -240,5 +259,22 @@
 
 ## iOS
 * Author does not use an iPhone, but contributions are welcome.
+
+#### Ripple (涟漪)
+- [Website](https://ripplefocus.github.io/)
+- [GitHub Releases (IPA sideload)](https://github.com/ripplefocus/ripplefocus.github.io/releases)
+##### Features
+* iOS 16+ Screen Time APIs: FamilyControls, ManagedSettings, DeviceActivity
+* denyAppRemoval so the app cannot be deleted from the home screen
+* systemUptime based schedules that ignore wall-clock changes
+* 8-digit parent or self unlock code
+* Companion Android app with the same short-video and parental focus features
+##### Cost
+* Free!
+##### Permissions
+* Network Required: No. :fire:
+##### Editors Note
+* IPA is direct install, not App Store.
+
 
 <!-- END CONTENT -->
